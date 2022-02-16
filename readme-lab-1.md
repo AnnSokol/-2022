@@ -10,10 +10,8 @@ Team code/name:Г6
 Unity 2020.3.28f1 (LTS)
 
 
-# Lab
-About team task management (screenshot/description)
-Залиште тут знімок екрану з вашого таск менеджера чи аргументуйте вибір, якщо обрали іншу стратегію.
-
+# Team task management
+https://trello.com/b/2am1WGFw
 
 # Chosen games analysis:
 ## Розбір оригінальної ідеї для гри.
