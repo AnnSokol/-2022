@@ -1,6 +1,5 @@
 # Team and project
-# Team code/name:
-# Г6
+Team code/name:Г6
 
 # Team members list
 1. Сокольницька А.В., ІС-93
